@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compareX/static/css/main.9032af6c.css",
+    "main.js": "/compareX/static/js/main.79b7933b.js",
+    "index.html": "/compareX/index.html",
+    "main.9032af6c.css.map": "/compareX/static/css/main.9032af6c.css.map",
+    "main.79b7933b.js.map": "/compareX/static/js/main.79b7933b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9032af6c.css",
+    "static/js/main.79b7933b.js"
+  ]
+}
